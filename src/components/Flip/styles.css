@@ -1,0 +1,30 @@
+.tick {
+  font-size: 3em;
+  display: inline-block;
+}
+
+.tick-flip {
+  font-size: 2.5em;
+}
+
+.tick-label {
+  margin-top: 1em;
+  font-size: 1em;
+}
+
+.tick-char {
+  width: 1.5em;
+}
+
+.tick-group {
+  margin: 0 0.5em;
+  text-align: center;
+}
+
+.tick-flip-panel {
+  color: #da011a !important;
+}
+
+.tick-flip-panel {
+  background-color: #fff !important;
+}
