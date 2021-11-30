@@ -16,6 +16,7 @@ export const AppContainer = styled.div`
 export const MainContent = styled.div`
   width: 100%;
   height: 100%;
+  padding: 2em 0;
   grid-area: ${(props) => props.gridArea};
   background-image: url("${(props) => props.img}");
   background-position: center;
@@ -24,11 +25,16 @@ export const MainContent = styled.div`
   color: #fff;
 `;
 
-export const Heading = styled.h1`
+export const HeadingOne = styled.h1`
   color: #fff;
   background-color: #da011a;
   display: inline-block;
   padding: 0.3em 1em;
+  margin: 0 0 1em;
+  text-transform: uppercase;
+`;
+
+export const HeadingTwo = styled.h1`
   text-transform: uppercase;
 `;
 

@@ -3,6 +3,7 @@ export { FlipStatic } from "./FlipStatic";
 export {
   AppContainer,
   MainContent,
-  Heading,
+  HeadingOne,
+  HeadingTwo,
   SecondaryContent
 } from "./StyledComponents";
