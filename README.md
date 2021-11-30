@@ -1,6 +1,6 @@
 # Price countdown (Template)
 
-<img src="https://raw.githubusercontent.com/jamesrplee/certificate-app/main/public/og-image.png">
+<img src="https://raw.githubusercontent.com/philcon93/flip-card/main/public/screenshot.png">
 
 <br/>
 
